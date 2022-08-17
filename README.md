@@ -1,7 +1,7 @@
 
 # Projeto Previsão do tempo!
 
-![Logo](https://uploaddeimagens.com.br/images/003/858/747/original/nlw.png?1651898960)
+![Logo](https://media.discordapp.net/attachments/980229921144205403/1009546199960915989/unknown.png?width=719&height=445)
 
 Esse projeto tem a finalidade de estudar mais sobre API, Boostrap e ReactJS!
 
@@ -12,7 +12,6 @@ Esse projeto tem a finalidade de estudar mais sobre API, Boostrap e ReactJS!
 - API
 
 ## Como inicializar
-**Iniciar servidor**
 
 **Iniciar Frond-end**
 ```bash
